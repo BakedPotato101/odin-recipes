@@ -1,0 +1,1 @@
+Here is my first official Repo that I will use to begin my journey down the Odin Project. 
